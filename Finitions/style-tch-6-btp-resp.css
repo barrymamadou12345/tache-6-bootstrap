@@ -1,0 +1,153 @@
+/* MEDIA QUERIES 1 */
+
+@media screen and (max-width:960px) {
+    .conty{
+        max-width: 100%;
+        margin: auto;
+        gap: 20px;
+    }
+}
+    /* MEDIA QUERIES 2 */
+
+@media screen and (max-width:767px) {
+    .conty{
+        max-width: 90%;
+        margin: auto;
+        gap: 50px;
+    }
+}
+/* MEDIA QUERIES 3 */
+
+@media screen and (max-width:1260px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 10px;
+    }
+}
+@media screen and (max-width:1198px){
+    .num{
+        position: absolute;
+        top: -68px;
+        left: 10px;
+    }
+}
+@media screen and (max-width:1090px){
+    .num{
+        position: absolute;
+        top: -58px;
+        left: 8px;
+    }
+}
+@media screen and (max-width:929px){
+    .num{
+        position: absolute;
+        top: -50px;
+        left: 4px;
+    }
+}
+@media screen and (max-width:849px){
+    .num{
+        position: absolute;
+        top: -43px;
+        left: -0px;
+    }
+}
+
+@media screen and (max-width:767px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 195px;
+    }
+@media screen and (max-width:753px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 175px;
+    }
+}
+@media screen and (max-width:733px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 150px;
+    }
+}
+@media screen and (max-width:713px){
+    .num{
+        position: absolute;
+        top: -68px;
+        left: 135px;
+    }
+}
+@media screen and (max-width:703px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 115px;
+    }
+}
+
+@media screen and (max-width:674px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 80px;
+    }
+}
+@media screen and (max-width:630px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 50px;
+    }
+}
+@media screen and (max-width:610px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 30px;
+    }
+}
+@media screen and (max-width:595px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 10px;
+    }
+    body{
+        width: 98%;
+    }
+}
+}
+@media screen and (max-width:500px){
+    .num{
+        position: absolute;
+        top: -60px;
+        left: 5px;
+    }
+}
+
+/*=============== autres======  */
+
+@media screen and (max-width:1199px){
+    .axer{
+        height: 320px;
+    }
+}
+
+@media screen and (max-width:999px){
+    .axer{
+        height: 250px;
+    }
+}
+
+@media screen and (max-width:767px){
+    .axer{
+        height: auto;
+    }
+}
+
+
+
