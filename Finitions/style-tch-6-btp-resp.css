@@ -60,6 +60,17 @@
         top: -70px;
         left: 195px;
     }
+    .submito2{
+        height: auto;
+        background-color: #F44336;
+        border-radius: 2px;
+        border: 2px solid #F44336;
+    }
+    .btn6{
+        width: 35%;
+        margin: auto;
+    }
+}
 @media screen and (max-width:753px){
     .num{
         position: absolute;
@@ -120,7 +131,7 @@
         width: 98%;
     }
 }
-}
+
 @media screen and (max-width:500px){
     .num{
         position: absolute;
@@ -129,6 +140,20 @@
     }
 }
 
+@media screen and (max-width:410px){
+    .conty{
+        max-width: 100%;
+        margin: auto;
+        gap: 20px;
+    }
+    .caro{
+        margin-top: -75px;
+    }
+    .sub{
+        position: relative;
+        margin-bottom: 250px;
+    }
+}
 /*=============== autres======  */
 
 @media screen and (max-width:1199px){
