@@ -6,6 +6,13 @@
 body{
     width:100%;
 }
+
+.moy{
+    width: 100%;
+}
+.moy img{
+    width: 100%;
+}
 .head .logo{
     width: 20%;
 }
