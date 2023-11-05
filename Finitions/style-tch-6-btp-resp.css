@@ -25,6 +25,34 @@
         left: 10px;
     }
 }
+@media screen and (max-width:1565px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 70px;
+    }
+}
+@media screen and (max-width:1480px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 35px;
+    }
+}
+@media screen and (max-width:1419px){
+    .num{
+        position: absolute;
+        top: -70px;
+        left: 15px;
+    }
+}
+@media screen and (max-width:1369px){
+    .num{
+        position: absolute;
+        top: -65px;
+        left: -5px;
+    }
+}
 @media screen and (max-width:1198px){
     .num{
         position: absolute;
